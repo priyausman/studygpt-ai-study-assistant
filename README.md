@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+#  StudyGPT — AI Study Assistant
 
-# Run and deploy your AI Studio app
+StudyGPT is an AI-powered study assistant designed to help students understand academic topics, ask questions, summarize notes, and practice with MCQs.
 
-This contains everything you need to run your app locally.
+It provides an interactive chat experience where students can ask questions about different subjects and receive AI-generated responses.
 
-View your app in AI Studio: https://ai.studio/apps/e123e5bd-ff85-4e8b-ac2c-6afef8833113
+##  Features
 
-## Run Locally
+-  **AI Chat** — Ask StudyGPT questions about any academic topic
+-  **Voice Input** — Ask questions using your voice
+-  **Voice Responses** — Listen to StudyGPT's answers
+-  **Explain a Topic** — Get simple explanations of academic concepts
+-  **Summarize Notes** — Turn study material into concise summaries
+-  **Generate MCQs** — Create practice questions from a topic
+-  **Multiple Subjects** — Supports topics across different academic fields
+-  **Responsive Design** — Works across desktop, tablet, and mobile
 
-**Prerequisites:**  Node.js
 
+##  AI-Assisted Development
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project was created as part of my **AI & Vibe Coding learning journey**.
+
+Google AI Studio and AI-assisted development were used throughout the development process to help build, debug, test, and improve the application.
+
+The project was developed iteratively by designing features, testing them, identifying issues, and improving the application.
