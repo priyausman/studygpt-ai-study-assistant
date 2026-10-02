@@ -1,0 +1,7 @@
+{
+  "name": "StudyGPT - AI Study Assistant",
+  "description": "Your AI-powered study companion for university students. Explain topics, summarize notes, generate practice MCQs, and ask questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
