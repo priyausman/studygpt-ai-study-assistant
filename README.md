@@ -23,3 +23,8 @@ This project was created as part of my **AI & Vibe Coding learning journey**.
 Google AI Studio and AI-assisted development were used throughout the development process to help build, debug, test, and improve the application.
 
 The project was developed iteratively by designing features, testing them, identifying issues, and improving the application.
+
+##  Live Demo
+
+**Try StudyGPT:**  
+https://studygpt-ai-study-assistant-1090609494475.asia-southeast1.run.app
